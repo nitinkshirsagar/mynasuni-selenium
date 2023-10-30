@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from mynasuni_selenium.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "mynasuni_selenium"
